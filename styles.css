@@ -1,0 +1,72 @@
+#title{
+    font-family: "Codystar";
+    font-size: 50px;
+    display: block;
+    margin: 20px auto 20px auto;
+    font-weight: bold;
+    color: purple;
+    text-shadow: 2px 2px 3px mediumorchid;
+    text-align: center;
+    width: 60%;
+}
+
+
+
+#sign{
+    font-family: "Codystar";
+    font-size: 40px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+    font-weight: bold;
+    color: purple;
+    text-shadow: 2px 2px 3px orchid;
+
+}
+
+#day, #month, #name, #button{
+    display: block;
+    margin: 5px auto 20px auto;
+    background-color: white;
+    font-size: 15px;
+    font-family: "Fresca";
+    border: 3px dotted orchid;
+    color: orchid;
+    cursor: pointer;
+}
+
+#text{
+    display: block;
+    margin: 20px auto 0px auto;
+    text-align: center;
+    font-size: 15px;
+    font-family: "Fresca";
+    color: orchid;
+}
+
+#button:hover, #day:hover, #month:hover, #name:hover{
+    background-color: whitesmoke;
+    color: mediumorchid;
+    border: 3px dotted mediumorchid;
+}
+
+body{
+    background-color: lavenderblush;
+}
+#horoscope{
+    font-family: "Fresca";
+    font-size: 20px;
+    display: block;
+    margin: 20px auto 5px auto;
+    text-align: center;
+    color: orchid;
+    width: 40%;
+}
+
+#image{
+    display: block;
+    margin: 10px auto 10px auto;
+    width: 30%;
+
+}
